@@ -20,7 +20,7 @@ Test Automation Engineer, DevOps Engineer
 ---
 # Work experiences
 
-## 2016–Present: Senior Test Automation Engineer Team Lead (Epam System Kft)
+## 2016–Present: Senior Test Automation Engineer Team Lead     (Epam Systems Kft)
 
 * Manage team with 7 team members
 
@@ -39,7 +39,7 @@ Test Automation Engineer, DevOps Engineer
 ---
 # Work experiences
 
-## 2014–2016: Test Automation Engineer Team Lead (Epam System Kft)
+## 2014–2016: Test Automation Engineer Team Lead               (Epam Systems Kft)
 
 * Lead a SDET team with 7 team members
 
@@ -54,7 +54,7 @@ Test Automation Engineer, DevOps Engineer
 ---
 # Work experiences
 
-## 2011–2014: Test Automation Engineer (Epam Systems Kft)
+## 2011–2014: Test Automation Engineer                         (Epam Systems Kft)
 
 * Support 4 Kanban teams in Test automation
 
@@ -71,7 +71,7 @@ Test Automation Engineer, DevOps Engineer
 ---
 # Work experiences
 
-## 2009–2011: Functional Tester (Ericsson Hungary)
+## 2009–2011: Functional Tester                                (Ericsson Hungary)
 
 * Develop test strategies, test plans and test cases.
 
